@@ -1,0 +1,6 @@
+[wrap-file]
+directory = gdbm-1.18
+
+source_url = ftp://ftp.gnu.org/gnu/gdbm/gdbm-1.18.tar.gz
+source_filename = gdbm-1.18.tar.gz
+source_hash = b8822cb4769e2d759c828c06f196614936c88c141c3132b18252fe25c2b635ce
